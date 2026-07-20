@@ -8,7 +8,6 @@ Rather than replacing human judgment, Mentosync is designed to observe my review
 
 This project is being built from scratch as both a practical AI assistant and a long-term software engineering project.
 
----
 
 ## Features
 
@@ -24,7 +23,6 @@ The long-term vision for Mentosync includes:
 * 💬 Explainable Review Suggestions
 * 📊 Review History & Analytics
 
----
 
 ## Tech Stack
 
@@ -41,7 +39,6 @@ The long-term vision for Mentosync includes:
 * FAISS
 * FastAPI
 
----
 
 ## Project Status
 
@@ -49,7 +46,6 @@ The long-term vision for Mentosync includes:
 
 The first milestone is building the **Bio Review Engine**, which will form the foundation for the rest of the system.
 
----
 
 ## Roadmap
 
@@ -59,7 +55,6 @@ The first milestone is building the **Bio Review Engine**, which will form the f
 * [ ] AI Review Suggestions
 * [ ] Complete Application Reviewer
 
----
 
 ## Author
 
