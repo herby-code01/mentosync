@@ -29,6 +29,5 @@ The first module under development is the **Bio Review Engine**, which will serv
 * SQLite *(planned)*
 * Git & GitHub
 
----
 
 **Status:** 🚧 Active Development
