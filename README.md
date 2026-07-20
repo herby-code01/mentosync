@@ -2,62 +2,33 @@
 
 > **Learning how you think. Reviewing how you would.**
 
-Mentosync is a personal AI assistant that learns how I evaluate university applications.
+Mentosync is a personal AI assistant that learns my application review philosophy by observing how I evaluate applicants.
 
-Rather than replacing human judgment, Mentosync is designed to observe my review process, learn from my feedback, and gradually assist me by generating personalized, explainable application reviews that reflect my own evaluation philosophy.
+The goal is not to replace my judgment, but to learn from my reviews, comments, and feedback over time, allowing it to provide personalized and explainable review suggestions that reflect how I think.
 
-This project is being built from scratch as both a practical AI assistant and a long-term software engineering project.
+This project is being built from scratch using Python as a way to explore Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Engineering through a real-world problem.
 
+## Current Focus
 
-## Features
+The first module under development is the **Bio Review Engine**, which will serve as the foundation for the rest of the system.
 
-The long-term vision for Mentosync includes:
+## Planned Features
 
-* 📖 Bio Review
-* 🌟 Extracurricular Activities Review
-* 🏅 Honors & Awards Review
-* ✍️ Gap Year Essay Review
-* 📝 Personal Essay Review
-* 📚 Supplemental Essay Review
-* 🧠 Personalized AI Learning
-* 💬 Explainable Review Suggestions
-* 📊 Review History & Analytics
-
+* Bio Review
+* Extracurricular Activities Review
+* Honors Review
+* Gap Year Essay Review
+* Personal Essay Review
+* Supplemental Essay Review
+* Personalized AI Learning
+* Explainable Review Suggestions
 
 ## Tech Stack
 
 * Python
-* SQLite
+* SQLite *(planned)*
 * Git & GitHub
 
-**Planned**
+---
 
-* pandas
-* spaCy
-* scikit-learn
-* Sentence Transformers
-* FAISS
-* FastAPI
-
-
-## Project Status
-
-🚧 **Currently in active development.**
-
-The first milestone is building the **Bio Review Engine**, which will form the foundation for the rest of the system.
-
-
-## Roadmap
-
-* [ ] Bio Review Engine
-* [ ] Review Database
-* [ ] Learning Engine
-* [ ] AI Review Suggestions
-* [ ] Complete Application Reviewer
-
-
-## Author
-
-**Herbert Botwe Sackey**
-
-Building Mentosync as a personal AI assistant to learn and preserve my application review philosophy.
+**Status:** 🚧 Active Development
