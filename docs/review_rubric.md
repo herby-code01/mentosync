@@ -27,7 +27,6 @@ A strong background story provides context, helps the reader understand the appl
 - Easy to understand
 - Creates context for the rest of the bio
 
----
 
 ### 2. Problem Awareness
 
